@@ -1,0 +1,67 @@
+﻿number_id,site_id,site_name,latitude,longitude,Stef_col_id46,Stef_col_id54,new #,,REGIONS ESA
+57,SNOW,Snow Hill Island,-64.5238,-57.4445,1,1,1,,1
+33,JASN,Jason Peninsula,-66.0996,-60.6737,0,2,2,,1
+23,DOLL,Dolleman,-70.6106,-60.4207,2,3,3,,1
+55,SMTH,Smith,-74.3693,-60.8273,3,4,4,,1
+29,GOUL,Gould,-77.7099,-47.6562,4,5,5,,1
+38,LUIT,Luitpold,-77.271,-33.552,5,6,6,,1
+31,HALY,Halley,-75.54,-27.43,7,7,7,,1
+20,DAWS,Dawson,-76.0143,-26.6479,6,8,8,,1
+58,STCB,Stancomb,-74.1203,-23.0867,8,9,9,,1
+24,DRES,Drescher,-72.8257,-19.3262,9,10,10,,1
+48,RIIS,Riiser,-72.1245,-15.106,10,11,11,,1
+4,ATKA,Atka,-70.6142,-8.1317,11,12,12,,1
+53,SANA,Sanae,-69.9994,-1.4128,12,13,13,,1
+3,ASTD,Astrid,-69.9481,8.3176,13,14,14,,2
+36,LAZA,Lazarev,-69.7504,15.5493,14,15,15,,2
+47,RAGN,Ragnhild,-69.908,27.1548,15,16,16,,2
+30,GUNN,Gunnerus,-68.7625,34.3819,16,17,17,,2
+61,UMBE,Umbeashi,-68.0459,43.0172,17,18,18,,2
+14,CBYW,Casey Bay West,-67.312,46.957,0,0,19,,2
+2,AMUN,Amundsen Bay,-66.7826,50.5437,18,19,20,,2
+35,KLOA,Kloa Point,-66.6407,57.2779,19,20,21,,2
+26,FOLD,Fold Island,-67.3239,59.3159,20,21,22,,2
+59,TAYG,Taylor Glacier,-67.4543,60.8778,21,22,23,,2
+5,AUST,Auster Islands,-67.3966,63.9742,22,23,24,,2
+19,DARN,Cape Darnley,-67.887,69.696,23,24,25,,2
+1,AMAN,Amanda Bay,-69.2711,76.8348,24,25,26,,2
+64,WISH,West Ice Shelf,-67.225,81.931,0,26,27,,2
+6,BBAY,Barrier Bay,-66.55,81.818,0,28,28,,3
+34,KARE,Karelin Bay,-66.4118,85.3836,0,0,29,,3
+12,BURT,Burton Ice Shelf,-66.272,89.695,0,29,30,,3
+32,HASW,Haswell Island,-66.5308,93.0079,25,30,31,,3
+54,SHAC,Shackleton Ice Shelf,-65.0887,96.02,26,31,32,,3
+9,BOWM,Bowman Island,-65.1613,103.0674,27,32,33,,3
+46,PSON,Peterson Bank,-65.9175,110.2355,28,33,34,,3
+45,POIN,Cape Poinsett,-65.7817,113.2351,0,0,35,,3
+52,SABC,Sabrina Coast,-66.177,121.058,0,0,36,,3
+42,PBAY,Porpoise Bay,-66.3204,129.7496,0,0,37,,3
+22,DIBB,Dibble Glacier,-65.9999,134.7996,29,34,38,,3
+44,PGEO,Point Geologie,-66.6744,140.0052,30,35,39,,3
+66,MERB,Mertz Glacier Break-Off,-67.322,145.893,31,36,40,,3
+39,MERT,Mertz Glacier,-66.892,146.62,0,37,41,,3
+40,NINN,Ninnis Bank,-66.7229,149.677,0,0,42,,3
+21,DBAY,Davis Bay,-69.3484,158.4924,32,38,43,,3
+49,ROGE,Cape Roget,-71.9882,170.5972,33,39,44,,4
+15,COUL,Coulman Island,-73.3483,169.6242,34,40,45,,4
+63,WASH,Cape Washington,-74.6373,165.3821,35,41,46,,4
+65,YULE,Yule Bay,-70.7161,166.4777,0,0,47,,4
+27,FRAN,Franklin Island,-76.1873,168.4401,36,42,48,,4
+7,BEAN,Beaufort Island,-76.94,167.039,37,43,49,,4
+16,CROZ,Cape Crozier,-77.4653,169.3294,38,44,50,,4
+13,CBEK,"Cape Colbeck, Edward VII Peninsula",-77.14,-157.7,39,45,51,,4
+51,RUPE,Rupert Coast,-75.3821,-143.3076,40,46,52,,5
+17,CRUZ,Cruzen Island,-74.7341,-140.3266,0,0,53,,5
+37,LEDD,Ledda Bay,-74.42,-130.96,0,47,54,,5
+60,THUR,"Thurston Glacier, Mount Siple",-73.4977,-125.6204,41,48,55,,5
+28,GATE,Cape Gates,-73.6609,-122.697,0,0,56,,5
+8,BEAR,Bear Peninsula,-74.3922,-110.1917,42,49,57,,5
+11,BSON,Brownson Islands,-74.14,-103.48,43,50,58,,5
+41,NOVI,Noville Peninsula,-71.7693,-98.4467,44,51,59,,5
+43,PFRO,Pfrogner Point,-72.5687,-89.9058,0,0,60,,5
+10,BRYA,Bryan Coast,-73.2491,-85.3477,0,52,61,,5
+56,SMYL,Smyley,-72.3017,-78.8195,45,53,62,,5
+62,VERD,Verdi Inlet,-71.5559,-74.7603,0,0,63,,5
+50,ROTS,Rothschild Island,-69.5209,-72.2293,0,54,64,,5
+25,DION,Emperor Island,-67.8647,-68.71,0,0,65,,5
+18,DARL,Cape Darlington,-71.8872,-60.1338,0,0,66,,5
