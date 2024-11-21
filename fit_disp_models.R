@@ -109,7 +109,7 @@ par2 <- partial(rf_main, pred.var = "fdice_rearing",
 # Random forests with demography ------------------------------------------
 
 # Colony size and growth
-data_dem <- readRDS("data_dem.rds")
+data_dem <- readRDS("data/data_dem.rds")
 
 # Blinking
 bl <- readMat("data/mean_blinking_10years.mat")[[1]]
